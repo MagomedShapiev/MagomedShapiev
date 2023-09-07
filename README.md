@@ -1,4 +1,5 @@
 <h1 align="left" id="macropower-title">👋 Hello, world! I'm Magomed</h1>
+<img align="right" alt="GIF" src="https://media.tenor.com/bisOlq0rDRcAAAAd/hack.gif" width="500" height="320" />
 
 ```ruby
 import pandas as pd
@@ -15,10 +16,10 @@ data = {
 
     'Работа': "В активном поиске"
 
-}
+    }
 
-# Создайте датафрейм из словаря
-df = pd.DataFrame(list(data.items()), columns=['Вопрос', 'Ответ'])
+    # Создайте датафрейм из словаря
+    df = pd.DataFrame(list(data.items()), columns=['Вопрос', 'Ответ'])
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
