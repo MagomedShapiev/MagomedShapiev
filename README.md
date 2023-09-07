@@ -1,16 +1,19 @@
 <h1 align="left" id="macropower-title">👋 Hello, world! I'm Magomed</h1>
-<img align="right" alt="GIF" src="https://media.tenor.com/bisOlq0rDRcAAAAd/hack.gif" width="500" height="320" />
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ```ruby
 import pandas as pd
 
 data = {
+
     'Кто я': "Магомед Шапиев",
 
     'Где живу': "Россия, Москва",
 
-    'Где учился': "Дагестанский политехнический колледж,\
-                   Дагестанский государственный университет",
+    'Где учился': "Дагестанский политехнический колледж, Дагестанский государственный университет",
 
     'Доп.образование':"Яндекс.Практикум: Специалист Data Science",
 
@@ -21,7 +24,4 @@ data = {
     # Создайте датафрейм из словаря
     df = pd.DataFrame(list(data.items()), columns=['Вопрос', 'Ответ'])
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+**Зову**
